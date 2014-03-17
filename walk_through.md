@@ -61,4 +61,4 @@ my_instance.max  # => "y"
 ```
 One little detail here to notice is that `#each` return `self` after yielding each element to the block.
 As you can see many `Enumerable` methods return by default an array of elements. 
-I hope this tutorial was helpful and if you have any suggestions on how to make this tutorial better please feel free to contact me: alex@alex.com.
+I hope this tutorial was helpful and if you have any questions, or suggestions on how to make this tutorial better please feel free to contact me: alex@alex.com.
